@@ -1,28 +1,23 @@
 # Personal Information Manager
 
-This project is a simple Python program that stores and displays personal information.  
-It uses variables, user input, validation, and formatted output.
+## 📌 Project Description
+This is my first Python project!  
+It's a program that stores and displays personal information in a clean and formatted way.
 
 ---
 
-## 🎯 Features
-
-✔ Stores static information (name, age, city, hobby)  
-✔ Takes user input for favorite food and color  
-✔ Validates empty input  
-✔ Calculates age in months  
-✔ Nice formatted output  
-✔ Welcome and goodbye messages
+## 🧠 What I Learned
+- **Variables:** How to store different types of data
+- **Input/Output:** Getting user input and showing results
+- **String Formatting:** Using f-strings for clean output
+- **Error Handling:** Basic validation for user input
 
 ---
 
-## 🛠️ Requirements
+## ▶️ How to Run This Program
 
-- Python 3.x
+1. Make sure you have **Python installed**
+2. Open **Terminal / Command Prompt**
+3. Navigate to this project folder:
 
----
-
-## ▶️ How to Run
-
-Open terminal and run:
 
